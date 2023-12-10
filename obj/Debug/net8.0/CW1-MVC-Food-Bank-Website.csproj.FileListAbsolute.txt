@@ -1,0 +1,61 @@
+C:\Users\Arbaaz\Desktop\(CO659) Enterprise Systems Development\Code\CW1-MVC-Food-Bank-Website\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Arbaaz\Desktop\(CO659) Enterprise Systems Development\Code\CW1-MVC-Food-Bank-Website\bin\Debug\net8.0\appsettings.json
+C:\Users\Arbaaz\Desktop\(CO659) Enterprise Systems Development\Code\CW1-MVC-Food-Bank-Website\bin\Debug\net8.0\CW1-MVC-Food-Bank-Website.staticwebassets.runtime.json
+C:\Users\Arbaaz\Desktop\(CO659) Enterprise Systems Development\Code\CW1-MVC-Food-Bank-Website\bin\Debug\net8.0\CW1-MVC-Food-Bank-Website.exe
+C:\Users\Arbaaz\Desktop\(CO659) Enterprise Systems Development\Code\CW1-MVC-Food-Bank-Website\bin\Debug\net8.0\CW1-MVC-Food-Bank-Website.deps.json
+C:\Users\Arbaaz\Desktop\(CO659) Enterprise Systems Development\Code\CW1-MVC-Food-Bank-Website\bin\Debug\net8.0\CW1-MVC-Food-Bank-Website.runtimeconfig.json
+C:\Users\Arbaaz\Desktop\(CO659) Enterprise Systems Development\Code\CW1-MVC-Food-Bank-Website\bin\Debug\net8.0\CW1-MVC-Food-Bank-Website.dll
+C:\Users\Arbaaz\Desktop\(CO659) Enterprise Systems Development\Code\CW1-MVC-Food-Bank-Website\bin\Debug\net8.0\CW1-MVC-Food-Bank-Website.pdb
+C:\Users\Arbaaz\Desktop\(CO659) Enterprise Systems Development\Code\CW1-MVC-Food-Bank-Website\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arbaaz\Desktop\(CO659) Enterprise Systems Development\Code\CW1-MVC-Food-Bank-Website\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.AssemblyInfoInputs.cache
+C:\Users\Arbaaz\Desktop\(CO659) Enterprise Systems Development\Code\CW1-MVC-Food-Bank-Website\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.AssemblyInfo.cs
+C:\Users\Arbaaz\Desktop\(CO659) Enterprise Systems Development\Code\CW1-MVC-Food-Bank-Website\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.csproj.CoreCompileInputs.cache
+C:\Users\Arbaaz\Desktop\(CO659) Enterprise Systems Development\Code\CW1-MVC-Food-Bank-Website\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arbaaz\Desktop\(CO659) Enterprise Systems Development\Code\CW1-MVC-Food-Bank-Website\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.RazorAssemblyInfo.cache
+C:\Users\Arbaaz\Desktop\(CO659) Enterprise Systems Development\Code\CW1-MVC-Food-Bank-Website\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.RazorAssemblyInfo.cs
+C:\Users\Arbaaz\Desktop\(CO659) Enterprise Systems Development\Code\CW1-MVC-Food-Bank-Website\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Arbaaz\Desktop\(CO659) Enterprise Systems Development\Code\CW1-MVC-Food-Bank-Website\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Arbaaz\Desktop\(CO659) Enterprise Systems Development\Code\CW1-MVC-Food-Bank-Website\obj\Debug\net8.0\staticwebassets\msbuild.CW1-MVC-Food-Bank-Website.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Arbaaz\Desktop\(CO659) Enterprise Systems Development\Code\CW1-MVC-Food-Bank-Website\obj\Debug\net8.0\staticwebassets\msbuild.build.CW1-MVC-Food-Bank-Website.props
+C:\Users\Arbaaz\Desktop\(CO659) Enterprise Systems Development\Code\CW1-MVC-Food-Bank-Website\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CW1-MVC-Food-Bank-Website.props
+C:\Users\Arbaaz\Desktop\(CO659) Enterprise Systems Development\Code\CW1-MVC-Food-Bank-Website\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CW1-MVC-Food-Bank-Website.props
+C:\Users\Arbaaz\Desktop\(CO659) Enterprise Systems Development\Code\CW1-MVC-Food-Bank-Website\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Arbaaz\Desktop\(CO659) Enterprise Systems Development\Code\CW1-MVC-Food-Bank-Website\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Arbaaz\Desktop\(CO659) Enterprise Systems Development\Code\CW1-MVC-Food-Bank-Website\obj\Debug\net8.0\scopedcss\bundle\CW1-MVC-Food-Bank-Website.styles.css
+C:\Users\Arbaaz\Desktop\(CO659) Enterprise Systems Development\Code\CW1-MVC-Food-Bank-Website\obj\Debug\net8.0\scopedcss\projectbundle\CW1-MVC-Food-Bank-Website.bundle.scp.css
+C:\Users\Arbaaz\Desktop\(CO659) Enterprise Systems Development\Code\CW1-MVC-Food-Bank-Website\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.dll
+C:\Users\Arbaaz\Desktop\(CO659) Enterprise Systems Development\Code\CW1-MVC-Food-Bank-Website\obj\Debug\net8.0\refint\CW1-MVC-Food-Bank-Website.dll
+C:\Users\Arbaaz\Desktop\(CO659) Enterprise Systems Development\Code\CW1-MVC-Food-Bank-Website\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.pdb
+C:\Users\Arbaaz\Desktop\(CO659) Enterprise Systems Development\Code\CW1-MVC-Food-Bank-Website\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.genruntimeconfig.cache
+C:\Users\Arbaaz\Desktop\(CO659) Enterprise Systems Development\Code\CW1-MVC-Food-Bank-Website\obj\Debug\net8.0\ref\CW1-MVC-Food-Bank-Website.dll
+C:\Users\Arbaaz\Documents\repos\Food-Bank-App\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Arbaaz\Documents\repos\Food-Bank-App\bin\Debug\net8.0\appsettings.json
+C:\Users\Arbaaz\Documents\repos\Food-Bank-App\bin\Debug\net8.0\CW1-MVC-Food-Bank-Website.staticwebassets.runtime.json
+C:\Users\Arbaaz\Documents\repos\Food-Bank-App\bin\Debug\net8.0\CW1-MVC-Food-Bank-Website.exe
+C:\Users\Arbaaz\Documents\repos\Food-Bank-App\bin\Debug\net8.0\CW1-MVC-Food-Bank-Website.deps.json
+C:\Users\Arbaaz\Documents\repos\Food-Bank-App\bin\Debug\net8.0\CW1-MVC-Food-Bank-Website.runtimeconfig.json
+C:\Users\Arbaaz\Documents\repos\Food-Bank-App\bin\Debug\net8.0\CW1-MVC-Food-Bank-Website.dll
+C:\Users\Arbaaz\Documents\repos\Food-Bank-App\bin\Debug\net8.0\CW1-MVC-Food-Bank-Website.pdb
+C:\Users\Arbaaz\Documents\repos\Food-Bank-App\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arbaaz\Documents\repos\Food-Bank-App\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.AssemblyInfoInputs.cache
+C:\Users\Arbaaz\Documents\repos\Food-Bank-App\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.AssemblyInfo.cs
+C:\Users\Arbaaz\Documents\repos\Food-Bank-App\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.csproj.CoreCompileInputs.cache
+C:\Users\Arbaaz\Documents\repos\Food-Bank-App\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arbaaz\Documents\repos\Food-Bank-App\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.RazorAssemblyInfo.cache
+C:\Users\Arbaaz\Documents\repos\Food-Bank-App\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.RazorAssemblyInfo.cs
+C:\Users\Arbaaz\Documents\repos\Food-Bank-App\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.sourcelink.json
+C:\Users\Arbaaz\Documents\repos\Food-Bank-App\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Arbaaz\Documents\repos\Food-Bank-App\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Arbaaz\Documents\repos\Food-Bank-App\obj\Debug\net8.0\staticwebassets\msbuild.CW1-MVC-Food-Bank-Website.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Arbaaz\Documents\repos\Food-Bank-App\obj\Debug\net8.0\staticwebassets\msbuild.build.CW1-MVC-Food-Bank-Website.props
+C:\Users\Arbaaz\Documents\repos\Food-Bank-App\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CW1-MVC-Food-Bank-Website.props
+C:\Users\Arbaaz\Documents\repos\Food-Bank-App\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CW1-MVC-Food-Bank-Website.props
+C:\Users\Arbaaz\Documents\repos\Food-Bank-App\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Arbaaz\Documents\repos\Food-Bank-App\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Arbaaz\Documents\repos\Food-Bank-App\obj\Debug\net8.0\scopedcss\bundle\CW1-MVC-Food-Bank-Website.styles.css
+C:\Users\Arbaaz\Documents\repos\Food-Bank-App\obj\Debug\net8.0\scopedcss\projectbundle\CW1-MVC-Food-Bank-Website.bundle.scp.css
+C:\Users\Arbaaz\Documents\repos\Food-Bank-App\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.dll
+C:\Users\Arbaaz\Documents\repos\Food-Bank-App\obj\Debug\net8.0\refint\CW1-MVC-Food-Bank-Website.dll
+C:\Users\Arbaaz\Documents\repos\Food-Bank-App\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.pdb
+C:\Users\Arbaaz\Documents\repos\Food-Bank-App\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.genruntimeconfig.cache
+C:\Users\Arbaaz\Documents\repos\Food-Bank-App\obj\Debug\net8.0\ref\CW1-MVC-Food-Bank-Website.dll
