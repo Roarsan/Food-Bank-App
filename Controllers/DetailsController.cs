@@ -4,16 +4,16 @@ using System.Diagnostics;
 
 namespace CW1_MVC_Food_Bank_Website.Controllers
 {
-    public class MapController : Controller
+    public class DetailsController : Controller
     {
-        private readonly ILogger<MapController> _logger;
+        private readonly ILogger<DetailsController> _logger;
 
-        public MapController(ILogger<MapController> logger)
+        public DetailsController(ILogger<DetailsController> logger)
         {
             _logger = logger;
         }
 
-        public IActionResult Map()
+        public IActionResult Details()
         {
             return View();
         }
