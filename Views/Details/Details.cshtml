@@ -3,35 +3,35 @@
 }
 <h1>@ViewData["Title"]</h1>
 
-@model List<FoodBank>
-
 <p>Details about different food banks will be shown here.</p>
+
+@model List<FoodBank>
 
 <form class="row g-2">
 
     <div class="col-md-4">
         <label for="validationDefault01" class="form-label">Location</label>
-        <input type="text" class="form-control" id="validationDefault01" value="" >
+        <input type="text" class="form-control" id="location" value="" >
     </div>
     <div class="col-md-4">
         <label for="validationDefault02" class="form-label">Opening Times</label>
-        <input type="text" class="form-control" id="validationDefault02" value="" >
+        <input type="text" class="form-control" id="opening_times" value="" >
     </div>
     <div class="col-md-4">
         <label for="validationDefault01" class="form-label">Food Item</label>
-        <input type="text" class="form-control" id="validationDefault01" value="" >
+        <input type="text" class="form-control" id="food_item" value="" >
     </div>
     <div class="col-md-4">
         <label for="validationDefault02" class="form-label">Hygiene Item</label>
-        <input type="text" class="form-control" id="validationDefault02" value="" >
+        <input type="text" class="form-control" id="hygiene_item" value="" >
     </div>
     <div class="col-md-4">
         <label for="validationDefault01" class="form-label">Referral Needed</label>
-        <input type="text" class="form-control" id="validationDefault01" value="" >
+        <input type="text" class="form-control" id="referral_needed" value="" >
     </div>
     <div class="col-md-4">
         <label for="validationDefault02" class="form-label">Volunteers Needed</label>
-        <input type="text" class="form-control" id="validationDefault02" value="" >
+        <input type="text" class="form-control" id="volunteers_needed" value="" >
     </div>
     <div class="col-12">
         <button class="btn btn-primary" type="submit">Submit form</button>
