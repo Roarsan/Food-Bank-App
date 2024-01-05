@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CW1-MVC-Food-Bank-Website")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d71b40498dc24448b79c25fae4cc53a32a936334")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6cbbde77fd45b098f1f78162456891e301c5b025")]
 [assembly: System.Reflection.AssemblyProductAttribute("CW1-MVC-Food-Bank-Website")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CW1-MVC-Food-Bank-Website")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

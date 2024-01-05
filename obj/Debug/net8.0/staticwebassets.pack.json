@@ -13,6 +13,26 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Arbaaz\\Documents\\repos\\Food-Bank-App\\wwwroot\\images\\bucks_region.png",
+      "PackagePath": "staticwebassets\\images\\bucks_region.png"
+    },
+    {
+      "Id": "C:\\Users\\Arbaaz\\Documents\\repos\\Food-Bank-App\\wwwroot\\images\\community_fridge.jpg",
+      "PackagePath": "staticwebassets\\images\\community_fridge.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arbaaz\\Documents\\repos\\Food-Bank-App\\wwwroot\\images\\food_hub.jpg",
+      "PackagePath": "staticwebassets\\images\\food_hub.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arbaaz\\Documents\\repos\\Food-Bank-App\\wwwroot\\images\\link.svg",
+      "PackagePath": "staticwebassets\\images\\link.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arbaaz\\Documents\\repos\\Food-Bank-App\\wwwroot\\images\\one_can_trust.jpg",
+      "PackagePath": "staticwebassets\\images\\one_can_trust.jpg"
+    },
+    {
       "Id": "C:\\Users\\Arbaaz\\Documents\\repos\\Food-Bank-App\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
