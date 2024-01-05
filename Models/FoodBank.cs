@@ -4,17 +4,17 @@ namespace CW1_MVC_Food_Bank_Website.Models
 {
     public class FoodBank
     {
-        public string? RegistrationId { get; set; }
-        public string? Name { get; set; }
-        public string? Ward { get; set; }
-        public string? District { get; set; }
-        public string? Postcode { get; set; }
-        public string? Address { get; set; }
-        public bool Closed { get; set; }
-        public string? Email { get; set; }
-        public string? Phone { get; set; }
-        public Uri? Homepage { get; set; }
-        public Uri? Self { get; set; }
+        public string registration_id { get; set; }
+        public string name { get; set; }
+        public string ward { get; set; }
+        public string district { get; set; }
+        public string postcode { get; set; }
+        public string address { get; set; }
+        public bool closed { get; set; }
+        public string email { get; set; }
+        public string phone { get; set; }
+        public Uri homepage { get; set; }
+        public Uri self { get; set; }
 
     }
 }

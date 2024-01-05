@@ -1,7 +1,10 @@
+using CW1_MVC_Food_Bank_Website.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddHttpClient<FoodBankService>();
 
 var app = builder.Build();
 
