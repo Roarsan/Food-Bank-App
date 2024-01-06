@@ -1,28 +1,41 @@
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
 
 html {
-  font-size: 14px;
+    font-size: 14px;
 }
 
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+    html {
+        font-size: 16px;
+    }
 }
 
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
 
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    background-color: hsl(0, 0%, 100%);
+    color: hsl(136, 0%, 15%);
+}
+
+body.dark-mode {
+    background-color: hsl(147, 8%, 20%);
+    color: hsl(0, 0%, 100%);
 }
 
 .custom-align-right {
     text-align: right;
+}
+
+.switch_align {
+    position: relative;
+    margin-top: 1vh;
+    left: 5px;
 }
