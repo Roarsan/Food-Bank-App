@@ -1,18 +1,23 @@
 ﻿@{
     ViewData["Title"] = "Details Page";
 }
-<h1>@ViewData["Title"]</h1>
 
-<p>Details about different food banks will be shown here.</p>
+<div class="text-left">
+    <h1>@ViewData["Title"]</h1>
+    <p>Details about different food banks will be shown here.</p>
+    <br />
+</div>
 
 @model List<FoodBank>
 
 <form class="row g-2">
 
-    <div class="col-md-4">
-        <label for="validationDefault01" class="form-label">Location</label>
-        <input type="text" class="form-control" id="location" value="" >
+    
+    <div id="location_field" class="col-md-4">
+        <label for="location_input" class="form-label">Location</label>
+        <input type="text" class="form-control" id="location_input" value="" >
     </div>
+    
     <div class="col-md-4">
         <label for="validationDefault02" class="form-label">Opening Times</label>
         <input type="text" class="form-control" id="opening_times" value="" >
@@ -33,11 +38,56 @@
         <label for="validationDefault02" class="form-label">Volunteers Needed</label>
         <input type="text" class="form-control" id="volunteers_needed" value="" >
     </div>
+    
     <div class="col-12">
-        <button class="btn btn-primary" type="submit">Submit form</button>
+        <button class="btn btn-primary" type="submit">Search</button>
     </div>
-
+    
 
 </form>
 
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        // Function to make the API request
+        function fetchData() {
+            var apiUrl = 'https://www.givefood.org.uk/api/2/foodbanks/';
 
+            fetch(apiUrl)
+                .then(response => response.json())
+                .then(data => displayData(data))
+                .catch(error => console.error('Error fetching data:', error));
+        }
+
+        // Function to display the data in the table
+        function displayData(foodBanks) {
+            var tableBody = document.getElementById('foodBankTableBody');
+
+            // Loop through the food banks and create table rows
+            foodBanks.forEach(function (foodBank) {
+                var row = document.createElement('tr');
+                row.innerHTML = `
+                        <td>${foodBank.name}</td>
+                        <td>${foodBank.address}</td>
+                        <td>${foodBank.phone}</td>
+                        <!-- Add more cells for additional information -->
+                    `;
+                tableBody.appendChild(row);
+            });
+        }
+
+        // Call the fetchData function when the page loads
+        fetchData();
+    });
+</script>
+
+
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Address</th>
+            <th>Phone</th>
+        </tr>
+    </thead>
+    <tbody id="foodBankTableBody"></tbody>
+</table>
