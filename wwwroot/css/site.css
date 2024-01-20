@@ -30,6 +30,16 @@ body.dark-mode {
     color: hsl(0, 0%, 100%);
 }
 
+navbar {
+    background-color: hsl(0, 0%, 100%);
+    color: hsl(136, 0%, 15%);
+}
+
+navbar.dark-mode {
+    background-color: hsl(147, 8%, 20%);
+    color: hsl(0, 0%, 100%);
+}
+
 .custom-align-right {
     text-align: right;
 }
@@ -38,4 +48,12 @@ body.dark-mode {
     position: relative;
     margin-top: 1vh;
     left: 5px;
+}
+
+.center_text {
+    position: relative;
+    display: inline-block;
+    align-items: center;
+    text-align: center;
+    margin: auto;
 }
