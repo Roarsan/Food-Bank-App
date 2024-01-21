@@ -7,7 +7,7 @@
     <p>Details about different food banks will be shown here.</p>
     <br />
 </div>
-
+ 
 @model List<FoodBank>
 
 <form class="row g-2">
@@ -15,7 +15,7 @@
     
     <div id="location_field" class="col-md-4">
         <label for="location_input" class="form-label">Location</label>
-        <input type="text" class="form-control" id="location_input" value="" >
+        <input onkeyup="filterbyLocation()" placeholder="Search for postcode, city" type="text" class="form-control" id="location_input" value="">
     </div>
     
     <div class="col-md-4">
@@ -65,10 +65,12 @@
             // Loop through the food banks and create table rows
             foodBanks.forEach(function (foodBank) {
                 var row = document.createElement('tr');
+                // 4th column slug is uniqe identifer can be passed to next page so food bank details will be shown.
                 row.innerHTML = `
                         <td>${foodBank.name}</td>
                         <td>${foodBank.address}</td>
                         <td>${foodBank.phone}</td>
+                        <td>${foodBank.slug}</td>
                         <!-- Add more cells for additional information -->
                     `;
                 tableBody.appendChild(row);
@@ -78,15 +80,46 @@
         // Call the fetchData function when the page loads
         fetchData();
     });
+
+
+
+
+    function filterbyLocation() {
+        // Declare variables
+        var input, filter, table, tr, td, i, txtValue;
+        input = document.getElementById("location_input");
+        filter = input.value.toUpperCase();
+        table = document.getElementById("details_table");
+        tr = table.getElementsByTagName("tr");
+
+        // Loop through all table rows, and hide those who don't match the search query
+        
+        for (i = 0; i < tr.length; i++) {
+            // index 1 is going to search like address colum will be searched
+            td = tr[i].getElementsByTagName("td")[1];
+            if (td) {
+                txtValue = td.textContent || td.innerText;
+                if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                    tr[i].style.display = "";
+                } else {
+                    tr[i].style.display = "none";
+                }
+            }
+        }
+    }
+
+
+
 </script>
 
 
-<table>
+<table id="details_table">
     <thead>
         <tr>
             <th>Name</th>
             <th>Address</th>
             <th>Phone</th>
+            <th>Slug</th>
         </tr>
     </thead>
     <tbody id="foodBankTableBody"></tbody>
