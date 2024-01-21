@@ -7,3 +7,5 @@
 | Courses: | Computing with Web Development, Software Engineering, AI |
 | Module: | CO659 |
 | Started: | December 2023 |
+
+![Thumbnail](https://github.com/Roarsan/Food-Bank-App/blob/main/Screenshots/about_page.png)
