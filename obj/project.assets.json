@@ -2923,24 +2923,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Arbaaz\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\shakil\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arbaaz\\Documents\\repos\\Food-Bank-App\\CW1-MVC-Food-Bank-Website.csproj",
+      "projectUniqueName": "C:\\Users\\shakil\\Source\\Repos\\Food-Bank-App\\CW1-MVC-Food-Bank-Website.csproj",
       "projectName": "CW1-MVC-Food-Bank-Website",
-      "projectPath": "C:\\Users\\Arbaaz\\Documents\\repos\\Food-Bank-App\\CW1-MVC-Food-Bank-Website.csproj",
-      "packagesPath": "C:\\Users\\Arbaaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arbaaz\\Documents\\repos\\Food-Bank-App\\obj\\",
+      "projectPath": "C:\\Users\\shakil\\Source\\Repos\\Food-Bank-App\\CW1-MVC-Food-Bank-Website.csproj",
+      "packagesPath": "C:\\Users\\shakil\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\shakil\\Source\\Repos\\Food-Bank-App\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Arbaaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\shakil\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2948,8 +2943,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://www.nuget.org/api/v2/": {}
       },
       "frameworks": {
         "net8.0": {
