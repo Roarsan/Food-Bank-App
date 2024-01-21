@@ -3,6 +3,7 @@ using System.Text.Encodings.Web;
 
 namespace MvcMovie.Controllers;
 
+// Test controller to understand how basic controllers work - each method corresponds with the URL name, and logic can be put inside for each (web page) to return something different, like text or images
 public class HelloWorldController : Controller
 {
     // 
