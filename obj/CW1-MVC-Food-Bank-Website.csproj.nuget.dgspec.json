@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Arbaaz\\Documents\\repos\\Food-Bank-App\\CW1-MVC-Food-Bank-Website.csproj": {}
+    "E:\\Year_3\\Semester_1\\CO659 - Enterprise Systems Development\\FoodBankApp\\CW1-MVC-Food-Bank-Website.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Arbaaz\\Documents\\repos\\Food-Bank-App\\CW1-MVC-Food-Bank-Website.csproj": {
+    "E:\\Year_3\\Semester_1\\CO659 - Enterprise Systems Development\\FoodBankApp\\CW1-MVC-Food-Bank-Website.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Arbaaz\\Documents\\repos\\Food-Bank-App\\CW1-MVC-Food-Bank-Website.csproj",
+        "projectUniqueName": "E:\\Year_3\\Semester_1\\CO659 - Enterprise Systems Development\\FoodBankApp\\CW1-MVC-Food-Bank-Website.csproj",
         "projectName": "CW1-MVC-Food-Bank-Website",
-        "projectPath": "C:\\Users\\Arbaaz\\Documents\\repos\\Food-Bank-App\\CW1-MVC-Food-Bank-Website.csproj",
-        "packagesPath": "C:\\Users\\Arbaaz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Arbaaz\\Documents\\repos\\Food-Bank-App\\obj\\",
+        "projectPath": "E:\\Year_3\\Semester_1\\CO659 - Enterprise Systems Development\\FoodBankApp\\CW1-MVC-Food-Bank-Website.csproj",
+        "packagesPath": "C:\\Users\\sudat\\.nuget\\packages\\",
+        "outputPath": "E:\\Year_3\\Semester_1\\CO659 - Enterprise Systems Development\\FoodBankApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Arbaaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sudat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

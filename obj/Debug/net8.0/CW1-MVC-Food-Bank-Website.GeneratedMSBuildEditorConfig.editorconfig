@@ -9,59 +9,59 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CW1_MVC_Food_Bank_Website
 build_property.RootNamespace = CW1_MVC_Food_Bank_Website
-build_property.ProjectDir = C:\Users\Arbaaz\Documents\repos\Food-Bank-App\
+build_property.ProjectDir = E:\Year_3\Semester_1\CO659 - Enterprise Systems Development\FoodBankApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Arbaaz\Documents\repos\Food-Bank-App
+build_property.MSBuildProjectDirectory = E:\Year_3\Semester_1\CO659 - Enterprise Systems Development\FoodBankApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Arbaaz/Documents/repos/Food-Bank-App/Views/Admin/Admin.cshtml]
+[E:/Year_3/Semester_1/CO659 - Enterprise Systems Development/FoodBankApp/Views/Admin/Admin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/repos/Food-Bank-App/Views/Details/Details.cshtml]
+[E:/Year_3/Semester_1/CO659 - Enterprise Systems Development/FoodBankApp/Views/Details/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWlsc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/repos/Food-Bank-App/Views/Home/About.cshtml]
+[E:/Year_3/Semester_1/CO659 - Enterprise Systems Development/FoodBankApp/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/repos/Food-Bank-App/Views/Home/Index.cshtml]
+[E:/Year_3/Semester_1/CO659 - Enterprise Systems Development/FoodBankApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/repos/Food-Bank-App/Views/Home/Privacy.cshtml]
+[E:/Year_3/Semester_1/CO659 - Enterprise Systems Development/FoodBankApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/repos/Food-Bank-App/Views/Login/Login.cshtml]
+[E:/Year_3/Semester_1/CO659 - Enterprise Systems Development/FoodBankApp/Views/Login/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/repos/Food-Bank-App/Views/Map/Map.cshtml]
+[E:/Year_3/Semester_1/CO659 - Enterprise Systems Development/FoodBankApp/Views/Map/Map.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFwXE1hcC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/repos/Food-Bank-App/Views/Shared/Error.cshtml]
+[E:/Year_3/Semester_1/CO659 - Enterprise Systems Development/FoodBankApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/repos/Food-Bank-App/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/Year_3/Semester_1/CO659 - Enterprise Systems Development/FoodBankApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/repos/Food-Bank-App/Views/_ViewImports.cshtml]
+[E:/Year_3/Semester_1/CO659 - Enterprise Systems Development/FoodBankApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/repos/Food-Bank-App/Views/_ViewStart.cshtml]
+[E:/Year_3/Semester_1/CO659 - Enterprise Systems Development/FoodBankApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Arbaaz/Documents/repos/Food-Bank-App/Views/Shared/_Layout.cshtml]
+[E:/Year_3/Semester_1/CO659 - Enterprise Systems Development/FoodBankApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8fgdjsa6d7
