@@ -2923,24 +2923,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sudat\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\gauch\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Year_3\\Semester_1\\CO659 - Enterprise Systems Development\\FoodBankApp\\CW1-MVC-Food-Bank-Website.csproj",
+      "projectUniqueName": "C:\\Users\\gauch\\Source\\Repos\\Food-Bank-App2\\CW1-MVC-Food-Bank-Website.csproj",
       "projectName": "CW1-MVC-Food-Bank-Website",
-      "projectPath": "E:\\Year_3\\Semester_1\\CO659 - Enterprise Systems Development\\FoodBankApp\\CW1-MVC-Food-Bank-Website.csproj",
-      "packagesPath": "C:\\Users\\sudat\\.nuget\\packages\\",
-      "outputPath": "E:\\Year_3\\Semester_1\\CO659 - Enterprise Systems Development\\FoodBankApp\\obj\\",
+      "projectPath": "C:\\Users\\gauch\\Source\\Repos\\Food-Bank-App2\\CW1-MVC-Food-Bank-Website.csproj",
+      "packagesPath": "C:\\Users\\gauch\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gauch\\Source\\Repos\\Food-Bank-App2\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\sudat\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\gauch\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

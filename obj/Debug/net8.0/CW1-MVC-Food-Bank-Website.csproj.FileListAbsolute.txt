@@ -96,3 +96,37 @@ E:\Year_3\Semester_1\CO659 - Enterprise Systems Development\FoodBankApp\obj\Debu
 E:\Year_3\Semester_1\CO659 - Enterprise Systems Development\FoodBankApp\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.pdb
 E:\Year_3\Semester_1\CO659 - Enterprise Systems Development\FoodBankApp\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.genruntimeconfig.cache
 E:\Year_3\Semester_1\CO659 - Enterprise Systems Development\FoodBankApp\obj\Debug\net8.0\ref\CW1-MVC-Food-Bank-Website.dll
+C:\Users\gauch\Source\Repos\Food-Bank-App2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\gauch\Source\Repos\Food-Bank-App2\bin\Debug\net8.0\appsettings.json
+C:\Users\gauch\Source\Repos\Food-Bank-App2\bin\Debug\net8.0\CW1-MVC-Food-Bank-Website.staticwebassets.runtime.json
+C:\Users\gauch\Source\Repos\Food-Bank-App2\bin\Debug\net8.0\CW1-MVC-Food-Bank-Website.exe
+C:\Users\gauch\Source\Repos\Food-Bank-App2\bin\Debug\net8.0\CW1-MVC-Food-Bank-Website.deps.json
+C:\Users\gauch\Source\Repos\Food-Bank-App2\bin\Debug\net8.0\CW1-MVC-Food-Bank-Website.runtimeconfig.json
+C:\Users\gauch\Source\Repos\Food-Bank-App2\bin\Debug\net8.0\CW1-MVC-Food-Bank-Website.dll
+C:\Users\gauch\Source\Repos\Food-Bank-App2\bin\Debug\net8.0\CW1-MVC-Food-Bank-Website.pdb
+C:\Users\gauch\Source\Repos\Food-Bank-App2\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\gauch\Source\Repos\Food-Bank-App2\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.csproj.AssemblyReference.cache
+C:\Users\gauch\Source\Repos\Food-Bank-App2\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gauch\Source\Repos\Food-Bank-App2\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.AssemblyInfoInputs.cache
+C:\Users\gauch\Source\Repos\Food-Bank-App2\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.AssemblyInfo.cs
+C:\Users\gauch\Source\Repos\Food-Bank-App2\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.csproj.CoreCompileInputs.cache
+C:\Users\gauch\Source\Repos\Food-Bank-App2\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gauch\Source\Repos\Food-Bank-App2\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.RazorAssemblyInfo.cache
+C:\Users\gauch\Source\Repos\Food-Bank-App2\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.RazorAssemblyInfo.cs
+C:\Users\gauch\Source\Repos\Food-Bank-App2\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.sourcelink.json
+C:\Users\gauch\Source\Repos\Food-Bank-App2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gauch\Source\Repos\Food-Bank-App2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\gauch\Source\Repos\Food-Bank-App2\obj\Debug\net8.0\staticwebassets\msbuild.CW1-MVC-Food-Bank-Website.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gauch\Source\Repos\Food-Bank-App2\obj\Debug\net8.0\staticwebassets\msbuild.build.CW1-MVC-Food-Bank-Website.props
+C:\Users\gauch\Source\Repos\Food-Bank-App2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CW1-MVC-Food-Bank-Website.props
+C:\Users\gauch\Source\Repos\Food-Bank-App2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CW1-MVC-Food-Bank-Website.props
+C:\Users\gauch\Source\Repos\Food-Bank-App2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\gauch\Source\Repos\Food-Bank-App2\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gauch\Source\Repos\Food-Bank-App2\obj\Debug\net8.0\scopedcss\bundle\CW1-MVC-Food-Bank-Website.styles.css
+C:\Users\gauch\Source\Repos\Food-Bank-App2\obj\Debug\net8.0\scopedcss\projectbundle\CW1-MVC-Food-Bank-Website.bundle.scp.css
+C:\Users\gauch\Source\Repos\Food-Bank-App2\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.csproj.CopyComplete
+C:\Users\gauch\Source\Repos\Food-Bank-App2\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.dll
+C:\Users\gauch\Source\Repos\Food-Bank-App2\obj\Debug\net8.0\refint\CW1-MVC-Food-Bank-Website.dll
+C:\Users\gauch\Source\Repos\Food-Bank-App2\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.pdb
+C:\Users\gauch\Source\Repos\Food-Bank-App2\obj\Debug\net8.0\CW1-MVC-Food-Bank-Website.genruntimeconfig.cache
+C:\Users\gauch\Source\Repos\Food-Bank-App2\obj\Debug\net8.0\ref\CW1-MVC-Food-Bank-Website.dll
