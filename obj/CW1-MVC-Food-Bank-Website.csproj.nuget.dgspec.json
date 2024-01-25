@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Afro\\Downloads\\Food-Bank-App-Kyle_Branch\\CW1-MVC-Food-Bank-Website.csproj": {}
+    "C:\\Users\\gauch\\source\\repos\\Food-Bank-App\\CW1-MVC-Food-Bank-Website.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Afro\\Downloads\\Food-Bank-App-Kyle_Branch\\CW1-MVC-Food-Bank-Website.csproj": {
+    "C:\\Users\\gauch\\source\\repos\\Food-Bank-App\\CW1-MVC-Food-Bank-Website.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Afro\\Downloads\\Food-Bank-App-Kyle_Branch\\CW1-MVC-Food-Bank-Website.csproj",
+        "projectUniqueName": "C:\\Users\\gauch\\source\\repos\\Food-Bank-App\\CW1-MVC-Food-Bank-Website.csproj",
         "projectName": "CW1-MVC-Food-Bank-Website",
-        "projectPath": "C:\\Users\\Afro\\Downloads\\Food-Bank-App-Kyle_Branch\\CW1-MVC-Food-Bank-Website.csproj",
-        "packagesPath": "C:\\Users\\Afro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Afro\\Downloads\\Food-Bank-App-Kyle_Branch\\obj\\",
+        "projectPath": "C:\\Users\\gauch\\source\\repos\\Food-Bank-App\\CW1-MVC-Food-Bank-Website.csproj",
+        "packagesPath": "C:\\Users\\gauch\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gauch\\source\\repos\\Food-Bank-App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Afro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gauch\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
