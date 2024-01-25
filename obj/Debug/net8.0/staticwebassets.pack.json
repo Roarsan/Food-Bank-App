@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\images\\FoodBankLogo1.jpeg"
     },
     {
+      "Id": "E:\\Year_3\\Semester_1\\CO659 - Enterprise Systems Development\\FoodBankApp\\Food-Bank-App\\wwwroot\\images\\FoodbankLogo.jpg",
+      "PackagePath": "staticwebassets\\images\\FoodbankLogo.jpg"
+    },
+    {
       "Id": "E:\\Year_3\\Semester_1\\CO659 - Enterprise Systems Development\\FoodBankApp\\Food-Bank-App\\wwwroot\\images\\bucks_region.png",
       "PackagePath": "staticwebassets\\images\\bucks_region.png"
     },

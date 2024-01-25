@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aVHgVwPuTRLOzZ/qC/mXQKvxwgYmZaLjb2W1yK5EuAQ=",
+  "Hash": "bLGp+hW5AYuQqVD159iE4l9DowGOcC3DbuSkbjRhyi8=",
   "Source": "CW1-MVC-Food-Bank-Website",
   "BasePath": "_content/CW1-MVC-Food-Bank-Website",
   "Mode": "Default",
@@ -1345,6 +1345,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\FoodBankLogo.jpeg"
+    },
+    {
+      "Identity": "E:\\Year_3\\Semester_1\\CO659 - Enterprise Systems Development\\FoodBankApp\\Food-Bank-App\\wwwroot\\images\\FoodbankLogo.jpg",
+      "SourceId": "CW1-MVC-Food-Bank-Website",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Year_3\\Semester_1\\CO659 - Enterprise Systems Development\\FoodBankApp\\Food-Bank-App\\wwwroot\\",
+      "BasePath": "_content/CW1-MVC-Food-Bank-Website",
+      "RelativePath": "images/FoodbankLogo.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\FoodbankLogo.jpg"
     },
     {
       "Identity": "E:\\Year_3\\Semester_1\\CO659 - Enterprise Systems Development\\FoodBankApp\\Food-Bank-App\\wwwroot\\images\\FoodBankLogo1.jpeg",
