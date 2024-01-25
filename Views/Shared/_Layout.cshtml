@@ -42,17 +42,24 @@
                         <li class="nav-item">
                             <a class="nav-link text-success fw-bold" asp-controller="Details" asp-action="Details">Details</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-success fw-bold" asp-controller="Login" asp-action="Login">Login</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-success fw-bold" asp-controller="SearchItem" asp-action="SearchItem">Search Item</a>
-                        </li>
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            if (User.IsInRole("Admin"))
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link text-success fw-bold" asp-controller="Admin" asp-action="Admin">Admin</a>
+                                </li>
+                                
+                            }
+
+                        }
+
                         <li class="nav-item">
                             <a class="nav-link text-success fw-bold" asp-controller="FoodBank" asp-action="FoodBankList">FoodBankList</a>
                         </li>
                         <!-- ... Other navigation links ... -->
                     </ul>
+                    <partial name="_LoginPartial" />
                     <div class="form-check form-switch switch_align">
                         <input class="form-check-input" type="checkbox" id="darkModeSwitch">
                         <label class="form-check-label" for="darkModeSwitch" style="color: #343a40;">Dark Mode</label>
