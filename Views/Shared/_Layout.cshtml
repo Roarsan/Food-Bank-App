@@ -17,43 +17,46 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3" id="navDarkSwitch">
+        <nav class="navbar navbar-expand-sm navbar-light bg-light border-bottom box-shadow mb-3" id="navDarkSwitch">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Food Bank Website</a>
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index" style="font-size: 1.5rem; font-weight: bold; color: #007BFF;">Food Bank Website</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
+                        <!-- Style "Index" and "About" links with green color -->
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-controller="Home" asp-action="About">About</a>
+                            <a class="nav-link text-success fw-bold" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            <a class="nav-link text-success fw-bold" asp-controller="Home" asp-action="About">About</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-controller="Map" asp-action="Map">Map</a>
+                            <a class="nav-link text-success fw-bold" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-controller="Details" asp-action="Details">Details</a>
+                            <a class="nav-link text-success fw-bold" asp-controller="Map" asp-action="Map">Map</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-controller="Login" asp-action="Login">Login</a>
+                            <a class="nav-link text-success fw-bold" asp-controller="Details" asp-action="Details">Details</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-controller="Admin" asp-action="Admin">Admin</a>
+                            <a class="nav-link text-success fw-bold" asp-controller="Login" asp-action="Login">Login</a>
                         </li>
-                        <li>
-                            <div class="form-check form-switch switch_align">
-                                <input class="form-check-input" type="checkbox" id="darkModeSwitch">
-                                <label style="color: hsl(0, 0%, 0%);" class="form-check-label" for="darkModeSwitch">Dark Mode</label>
-                            </div>
+                        <li class="nav-item">
+                            <a class="nav-link text-success fw-bold" asp-controller="SearchItem" asp-action="SearchItem">Search Item</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-success fw-bold" asp-controller="FoodBank" asp-action="FoodBankList">FoodBankList</a>
+                        </li>
+                        <!-- ... Other navigation links ... -->
                     </ul>
+                    <div class="form-check form-switch switch_align">
+                        <input class="form-check-input" type="checkbox" id="darkModeSwitch">
+                        <label class="form-check-label" for="darkModeSwitch" style="color: #343a40;">Dark Mode</label>
+                    </div>
                 </div>
             </div>
         </nav>

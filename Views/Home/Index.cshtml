@@ -2,8 +2,38 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-left">
-    <h2 class="display-4">Home Page</h2>
-    <p>Start searching Bucks foodbanks from here.</p>
-    <br />
+<div class="container">
+    <div class="row">
+        <div class="col-md-3 text-left">
+            <!-- Logo Section at the top Left corner -->
+            <img src="@Url.Content("~/images/FoodBankLogo.jpeg")" alt="Your Food Bank Logo" class="img-fluid smaller-logo" />
+        </div>
+        <!-- Welcome page title -->
+        <div class="col-md-6 text-center">
+            <div class="jumbotron">
+                <h1 class="green-heading">Welcome to Aylesbury FoodBank</h1>
+                <p>Empowering communities, one meal at a time.</p>
+                <p>At Aylesbury FoodBank, we believe in the transformative power of food. 
+                   We recognize that access to nutritious meals is fundamental to individual well-being and community strength. 
+                   Our dedicated team works tirelessly to ensure that no one in our community goes hungry.</p>
+            </div>
+        </div>
+        <div class="col-md-3 text-right mt-3">
+            <!-- Search Section -->
+            <form action="/FoodBank/Find" method="get">
+                <div class="input-group">
+                    <input type="text" class="form-control" placeholder="Search Foodbank" name="location" required>
+                    <button class="btn btn-success" type="submit">Search</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- image in the middle of page  -->
+    <div class="row custom-center">
+        <div class="col-md-6">
+            <!-- image in the middle -->
+            <img src="@Url.Content("~/images/one_can_trust.jpg")" alt="Silencing Image" class="img-fluid rounded" />
+        </div>
+    </div>
 </div>
