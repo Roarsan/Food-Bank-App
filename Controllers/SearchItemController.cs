@@ -4,11 +4,11 @@ using System.Diagnostics;
 
 namespace CW1_MVC_Food_Bank_Website.Controllers
 {
-    public class AdminController : Controller
+    public class SearchItemController : Controller
     {
-        private readonly ILogger<AdminController> _logger;
+        private readonly ILogger<SearchItemController> _logger;
 
-        public AdminController(ILogger<AdminController> logger)
+        public SearchItemController(ILogger<SearchItemController> logger)
         {
             _logger = logger;
         }
