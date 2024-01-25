@@ -17,95 +17,95 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CW1_MVC_Food_Bank_Website
 build_property.RootNamespace = CW1_MVC_Food_Bank_Website
-build_property.ProjectDir = C:\Users\gauch\source\repos\Food-Bank-App\
+build_property.ProjectDir = E:\Year_3\Semester_1\CO659 - Enterprise Systems Development\FoodBankApp\Food-Bank-App\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\gauch\source\repos\Food-Bank-App
+build_property.MSBuildProjectDirectory = E:\Year_3\Semester_1\CO659 - Enterprise Systems Development\FoodBankApp\Food-Bank-App
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/gauch/source/repos/Food-Bank-App/Areas/Identity/Pages/Account/Login.cshtml]
+[E:/Year_3/Semester_1/CO659 - Enterprise Systems Development/FoodBankApp/Food-Bank-App/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gauch/source/repos/Food-Bank-App/Areas/Identity/Pages/Account/Logout.cshtml]
+[E:/Year_3/Semester_1/CO659 - Enterprise Systems Development/FoodBankApp/Food-Bank-App/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gauch/source/repos/Food-Bank-App/Areas/Identity/Pages/Account/Register.cshtml]
+[E:/Year_3/Semester_1/CO659 - Enterprise Systems Development/FoodBankApp/Food-Bank-App/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gauch/source/repos/Food-Bank-App/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[E:/Year_3/Semester_1/CO659 - Enterprise Systems Development/FoodBankApp/Food-Bank-App/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gauch/source/repos/Food-Bank-App/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[E:/Year_3/Semester_1/CO659 - Enterprise Systems Development/FoodBankApp/Food-Bank-App/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gauch/source/repos/Food-Bank-App/Areas/Identity/Pages/_ViewImports.cshtml]
+[E:/Year_3/Semester_1/CO659 - Enterprise Systems Development/FoodBankApp/Food-Bank-App/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gauch/source/repos/Food-Bank-App/Areas/Identity/Pages/_ViewStart.cshtml]
+[E:/Year_3/Semester_1/CO659 - Enterprise Systems Development/FoodBankApp/Food-Bank-App/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gauch/source/repos/Food-Bank-App/Views/Admin/Admin.cshtml]
+[E:/Year_3/Semester_1/CO659 - Enterprise Systems Development/FoodBankApp/Food-Bank-App/Views/Admin/Admin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gauch/source/repos/Food-Bank-App/Views/Details/Details.cshtml]
+[E:/Year_3/Semester_1/CO659 - Enterprise Systems Development/FoodBankApp/Food-Bank-App/Views/Details/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWlsc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gauch/source/repos/Food-Bank-App/Views/FoodBank/FoodBankList.cshtml]
+[E:/Year_3/Semester_1/CO659 - Enterprise Systems Development/FoodBankApp/Food-Bank-App/Views/FoodBank/FoodBankList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9vZEJhbmtcRm9vZEJhbmtMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gauch/source/repos/Food-Bank-App/Views/Home/About.cshtml]
+[E:/Year_3/Semester_1/CO659 - Enterprise Systems Development/FoodBankApp/Food-Bank-App/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gauch/source/repos/Food-Bank-App/Views/Home/Index.cshtml]
+[E:/Year_3/Semester_1/CO659 - Enterprise Systems Development/FoodBankApp/Food-Bank-App/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gauch/source/repos/Food-Bank-App/Views/Home/Privacy.cshtml]
+[E:/Year_3/Semester_1/CO659 - Enterprise Systems Development/FoodBankApp/Food-Bank-App/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gauch/source/repos/Food-Bank-App/Views/Login/Login.cshtml]
+[E:/Year_3/Semester_1/CO659 - Enterprise Systems Development/FoodBankApp/Food-Bank-App/Views/Login/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gauch/source/repos/Food-Bank-App/Views/Map/Map.cshtml]
+[E:/Year_3/Semester_1/CO659 - Enterprise Systems Development/FoodBankApp/Food-Bank-App/Views/Map/Map.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFwXE1hcC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gauch/source/repos/Food-Bank-App/Views/Shared/Error.cshtml]
+[E:/Year_3/Semester_1/CO659 - Enterprise Systems Development/FoodBankApp/Food-Bank-App/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gauch/source/repos/Food-Bank-App/Views/Shared/_LoginPartial.cshtml]
+[E:/Year_3/Semester_1/CO659 - Enterprise Systems Development/FoodBankApp/Food-Bank-App/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gauch/source/repos/Food-Bank-App/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/Year_3/Semester_1/CO659 - Enterprise Systems Development/FoodBankApp/Food-Bank-App/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gauch/source/repos/Food-Bank-App/Views/_ViewImports.cshtml]
+[E:/Year_3/Semester_1/CO659 - Enterprise Systems Development/FoodBankApp/Food-Bank-App/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gauch/source/repos/Food-Bank-App/Views/_ViewStart.cshtml]
+[E:/Year_3/Semester_1/CO659 - Enterprise Systems Development/FoodBankApp/Food-Bank-App/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/gauch/source/repos/Food-Bank-App/Views/Shared/_Layout.cshtml]
+[E:/Year_3/Semester_1/CO659 - Enterprise Systems Development/FoodBankApp/Food-Bank-App/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8fgdjsa6d7

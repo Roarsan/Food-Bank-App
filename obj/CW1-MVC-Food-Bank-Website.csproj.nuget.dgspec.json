@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gauch\\source\\repos\\Food-Bank-App\\CW1-MVC-Food-Bank-Website.csproj": {}
+    "E:\\Year_3\\Semester_1\\CO659 - Enterprise Systems Development\\FoodBankApp\\Food-Bank-App\\CW1-MVC-Food-Bank-Website.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gauch\\source\\repos\\Food-Bank-App\\CW1-MVC-Food-Bank-Website.csproj": {
+    "E:\\Year_3\\Semester_1\\CO659 - Enterprise Systems Development\\FoodBankApp\\Food-Bank-App\\CW1-MVC-Food-Bank-Website.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gauch\\source\\repos\\Food-Bank-App\\CW1-MVC-Food-Bank-Website.csproj",
+        "projectUniqueName": "E:\\Year_3\\Semester_1\\CO659 - Enterprise Systems Development\\FoodBankApp\\Food-Bank-App\\CW1-MVC-Food-Bank-Website.csproj",
         "projectName": "CW1-MVC-Food-Bank-Website",
-        "projectPath": "C:\\Users\\gauch\\source\\repos\\Food-Bank-App\\CW1-MVC-Food-Bank-Website.csproj",
-        "packagesPath": "C:\\Users\\gauch\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gauch\\source\\repos\\Food-Bank-App\\obj\\",
+        "projectPath": "E:\\Year_3\\Semester_1\\CO659 - Enterprise Systems Development\\FoodBankApp\\Food-Bank-App\\CW1-MVC-Food-Bank-Website.csproj",
+        "packagesPath": "C:\\Users\\sudat\\.nuget\\packages\\",
+        "outputPath": "E:\\Year_3\\Semester_1\\CO659 - Enterprise Systems Development\\FoodBankApp\\Food-Bank-App\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\gauch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sudat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
