@@ -12017,24 +12017,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sudat\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Afro\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Year_3\\Semester_1\\CO659 - Enterprise Systems Development\\FoodBankApp\\Food-Bank-App\\CW1-MVC-Food-Bank-Website.csproj",
+      "projectUniqueName": "C:\\Users\\Afro\\Documents\\GitHub\\Food-Bank-App\\CW1-MVC-Food-Bank-Website.csproj",
       "projectName": "CW1-MVC-Food-Bank-Website",
-      "projectPath": "E:\\Year_3\\Semester_1\\CO659 - Enterprise Systems Development\\FoodBankApp\\Food-Bank-App\\CW1-MVC-Food-Bank-Website.csproj",
-      "packagesPath": "C:\\Users\\sudat\\.nuget\\packages\\",
-      "outputPath": "E:\\Year_3\\Semester_1\\CO659 - Enterprise Systems Development\\FoodBankApp\\Food-Bank-App\\obj\\",
+      "projectPath": "C:\\Users\\Afro\\Documents\\GitHub\\Food-Bank-App\\CW1-MVC-Food-Bank-Website.csproj",
+      "packagesPath": "C:\\Users\\Afro\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Afro\\Documents\\GitHub\\Food-Bank-App\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\sudat\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Afro\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
